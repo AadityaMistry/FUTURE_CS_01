@@ -1,5 +1,7 @@
 # FUTURE_CS_01 – Vulnerability Assessment Report
 
+<img width="660" height="913" alt="image" src="https://github.com/user-attachments/assets/08cabd0e-f522-4764-9e60-18c57a704276" />
+
 ##  Overview
 
 This repository contains my submission for **Task 1: Vulnerability Assessment Report for a Live Website** as part of the **Future Interns Cyber Security Internship Program**.
