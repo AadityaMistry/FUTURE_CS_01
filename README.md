@@ -14,7 +14,15 @@ This repository contains my submission for **Task 1: Vulnerability Assessment Re
 
 ##  Targets
 
-* **scanme.nmap.org** (Network Assessment)
+* **scanme.nmap.org** (Network <img width="1910" height="1033" alt="Security" src="https://github.com/user-attachments/assets/e49c7d77-276d-44a5-9bac-6622734dfb76" />
+<img width="1919" height="1079" alt="OWASP ZAP" src="https://github.com/user-attachments/assets/89f95a84-c189-4fa2-8060-7af94e879d43" />
+<img width="1919" height="1025" alt="Network" src="https://github.com/user-attachments/assets/75cffdd4-f228-4c77-bbcb-a16fce2f5af8" />
+<img width="1912" height="1027" alt="Application ( cookies )" src="https://github.com/user-attachments/assets/89319414-0f9c-4397-b818-857e815429f5" />
+<img width="1397" height="245" alt="nmap" src="https://github.com/user-attachments/assets/250685a2-62ed-45c6-ac08-6320ef395c85" />
+<img width="1397" height="280" alt="nmap -sV" src="https://github.com/user-attachments/assets/9f1d4f53-27e0-475e-ba00-ea56324013c8" />
+<img width="1397" height="572" alt="nmap --script vuln" src="https://github.com/user-attachments/assets/6d85a5f3-ba34-499b-92e0-a6bf6aee276c" />
+<img width="1397" height="581" alt="nmap -A" src="https://github.com/user-attachments/assets/0885ec14-831d-453e-97a7-135fbdc791dc" />
+Assessment)
 * **demo.owasp-juice.shop** (Web Application Assessment)
 
 ##  Key Activities
