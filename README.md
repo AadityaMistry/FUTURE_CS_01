@@ -1,18 +1,55 @@
-Vulnerability Assessment Report for a Live Website
+# FUTURE_CS_01 – Vulnerability Assessment Report
 
+##  Overview
 
-This project focuses on conducting a professional vulnerability assessment using passive and ethical security testing techniques.
+This repository contains my submission for **Task 1: Vulnerability Assessment Report for a Live Website** as part of the **Future Interns Cyber Security Internship Program**.
 
-The assessment includes:
+## 🛠️ Tools Used
 
-- Network reconnaissance
-- Service enumeration
-- Security exposure analysis
-- Risk classification
-- Vulnerability documentation
-- Remediation recommendations
+* Nmap
+* OWASP ZAP (Passive Scan)
+* Browser Developer Tools
+* Canva
+* GitHub
 
-The objective is to simulate a real-world security audit process commonly performed for startups, business websites, and public-facing applications.
+##  Targets
+
+* **scanme.nmap.org** (Network Assessment)
+* **demo.owasp-juice.shop** (Web Application Assessment)
+
+##  Key Activities
+
+* Network Reconnaissance
+* Service Enumeration
+* Vulnerability Assessment
+* Passive Web Security Analysis
+* Cookie & Session Review
+* Security Header Analysis
+
+##  Key Findings
+
+* Publicly Accessible SSH Service
+* Server Version Disclosure
+* Potential Slowloris Exposure
+* Missing Security Headers
+* Session Management Issues
+* Weak Cookie Configuration
+
+## Repository Contents
+
+* Vulnerability Assessment Report (PDF)
+* Assessment Screenshots
+* Supporting Documentation
+
+##  Disclaimer
+
+This project was conducted for educational purposes only on authorized and publicly available targets. No exploitation or unauthorized activities were performed.
+
+##  Author
+
+**Aaditya Mistry**
+Cyber Security Intern – Future Interns
+
 
 ~Important Disclaimer :-
 
