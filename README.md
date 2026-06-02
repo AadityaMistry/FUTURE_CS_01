@@ -39,7 +39,6 @@ This repository contains my submission for **Task 1: Vulnerability Assessment Re
 
 * Vulnerability Assessment Report (PDF)
 * Assessment Screenshots
-* Supporting Documentation
 
 ##  Disclaimer
 
